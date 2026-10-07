@@ -21,3 +21,6 @@ Apuntes y ejercicios para aprender **SQL**, el lenguaje de las bases de datos re
 
 !!! note "Empieza por aquí"
     Si nunca has escrito una consulta, empieza por [1.1 Bases de datos y SQL](u01/01-bases-de-datos.md): ahí está la base de datos de ejemplo y cómo crearla en tu equipo.
+
+!!! tip "¿Quieres ir más allá?"
+    Activa el interruptor **Avanzado** de la cabecera para ver el [material avanzado](avanzado/index.md): ventanas a fondo, recursión, rendimiento, concurrencia y SQL moderno.

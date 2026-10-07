@@ -86,5 +86,31 @@ nav:
       - "6.5 WITH y ventanas": u06/05-with-ventanas.md
       - "6.6 Triggers": u06/06-triggers.md
       - "S6 Ejercicios": u06/ejercicios.md
+  - "Avanzado": avanzado/index.md
+  - "A1 · Ventanas a fondo":
+      - avanzado/a1/index.md
+      - "A1.1 Marcos de ventana y acumulados": avanzado/a1/01-marcos.md
+      - "A1.2 Rankings, cuantiles y comparaciones": avanzado/a1/02-rankings.md
+      - "SA1 Ejercicios": avanzado/a1/ejercicios.md
+  - "A2 · CTE recursivas y jerarquías":
+      - avanzado/a2/index.md
+      - "A2.1 Árboles: organigramas y categorías": avanzado/a2/01-arboles.md
+      - "A2.2 Grafos, ciclos y series": avanzado/a2/02-grafos.md
+      - "SA2 Ejercicios": avanzado/a2/ejercicios.md
+  - "A3 · Rendimiento y planes de ejecución":
+      - avanzado/a3/index.md
+      - "A3.1 Leer el plan de ejecución": avanzado/a3/01-plan.md
+      - "A3.2 Índices a fondo y consultas lentas": avanzado/a3/02-indices.md
+      - "SA3 Ejercicios": avanzado/a3/ejercicios.md
+  - "A4 · Concurrencia en la base de datos":
+      - avanzado/a4/index.md
+      - "A4.1 Aislamiento y bloqueos en la práctica": avanzado/a4/01-aislamiento.md
+      - "A4.2 Actualizaciones perdidas e interbloqueos": avanzado/a4/02-perdidas.md
+      - "SA4 Ejercicios": avanzado/a4/ejercicios.md
+  - "A5 · SQL moderno":
+      - avanzado/a5/index.md
+      - "A5.1 UPSERT, RETURNING y copias de datos": avanzado/a5/01-upsert.md
+      - "A5.2 JSON y columnas generadas": avanzado/a5/02-json.md
+      - "SA5 Ejercicios": avanzado/a5/ejercicios.md
   - "Diferencias entre motores": diferencias.md
   - "Chuleta de SQL": chuleta.md

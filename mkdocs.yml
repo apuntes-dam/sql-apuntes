@@ -1,0 +1,90 @@
+site_name: SQL y bases de datos · Apuntes
+site_description: "Apuntes y ejercicios de SQL: consultas, JOIN, agrupaciones, diseño, transacciones y más, con resultados reales."
+site_url: https://apuntes-dam.github.io/sql-apuntes/
+repo_url: https://github.com/apuntes-dam/sql-apuntes
+repo_name: GitHub
+theme:
+  name: material
+  language: es
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+extra_css:
+  - assets/extra.css
+  - assets/lenguajes.css
+extra_javascript:
+  - assets/lenguajes.js
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/apuntes-dam/
+      name: Síguenos en GitHub
+copyright: Practica los Lenguajes de Programación para 1º DAM y 2º DAM · <a href="https://github.com/apuntes-dam/">Síguenos en GitHub</a>
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+nav:
+  - Inicio: index.md
+  - "U1 · Primeros pasos":
+      - u01/index.md
+      - "1.1 Bases de datos y SQL": u01/01-bases-de-datos.md
+      - "1.2 SELECT": u01/02-select.md
+      - "1.3 WHERE": u01/03-where.md
+      - "1.4 Ordenar y funciones": u01/04-ordenar-funciones.md
+      - "S1 Ejercicios": u01/ejercicios.md
+  - "U2 · Diseño de bases de datos":
+      - u02/index.md
+      - "2.1 Entidades y relaciones": u02/01-entidad-relacion.md
+      - "2.2 Del modelo a las tablas": u02/02-del-modelo-a-tablas.md
+      - "2.3 Normalización": u02/03-normalizacion.md
+      - "S2 Ejercicios": u02/ejercicios.md
+  - "U3 · Crear y modificar datos":
+      - u03/index.md
+      - "3.1 CREATE TABLE": u03/01-create-table.md
+      - "3.2 INSERT, UPDATE y DELETE": u03/02-insert-update-delete.md
+      - "3.3 ALTER, DROP e integridad": u03/03-alter-drop.md
+      - "S3 Ejercicios": u03/ejercicios.md
+  - "U4 · Varias tablas":
+      - u04/index.md
+      - "4.1 JOIN": u04/01-join.md
+      - "4.2 LEFT JOIN y otros": u04/02-left-join.md
+      - "4.3 UNION, INTERSECT y EXCEPT": u04/03-conjuntos.md
+      - "S4 Ejercicios": u04/ejercicios.md
+  - "U5 · Agrupar y subconsultas":
+      - u05/index.md
+      - "5.1 Funciones de agregado": u05/01-agregados.md
+      - "5.2 GROUP BY y HAVING": u05/02-group-by.md
+      - "5.3 Subconsultas": u05/03-subconsultas.md
+      - "S5 Ejercicios": u05/ejercicios.md
+  - "U6 · SQL avanzado":
+      - u06/index.md
+      - "6.1 CASE y NULL": u06/01-case-null.md
+      - "6.2 Vistas": u06/02-vistas.md
+      - "6.3 Índices": u06/03-indices.md
+      - "6.4 Transacciones": u06/04-transacciones.md
+      - "6.5 WITH y ventanas": u06/05-with-ventanas.md
+      - "6.6 Triggers": u06/06-triggers.md
+      - "S6 Ejercicios": u06/ejercicios.md
+  - "Diferencias entre motores": diferencias.md
+  - "Chuleta de SQL": chuleta.md

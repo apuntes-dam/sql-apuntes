@@ -21,7 +21,7 @@ theme:
         icon: material/weather-sunny
         name: Cambiar a modo oscuro
   features:
-    - navigation.sections
+    - navigation.indexes
     - navigation.top
     - content.code.copy
     - search.highlight

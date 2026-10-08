@@ -85,6 +85,12 @@ nav:
       - "6.5 WITH y ventanas": u06/05-with-ventanas.md
       - "6.6 Triggers": u06/06-triggers.md
       - "S6 Ejercicios": u06/ejercicios.md
+  - "U7 · Bases de datos no relacionales":
+      - u07/index.md
+      - "7.1 Relacional frente a no relacional": u07/01-relacional-vs-no.md
+      - "7.2 Los cuatro tipos": u07/02-tipos.md
+      - "7.3 Modelar y elegir": u07/03-modelar.md
+      - "S7 Ejercicios": u07/ejercicios.md
   - "Avanzado": avanzado/index.md
   - "A1 · Ventanas a fondo":
       - avanzado/a1/index.md

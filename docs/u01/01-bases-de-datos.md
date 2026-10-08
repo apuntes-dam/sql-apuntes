@@ -21,6 +21,9 @@ En una base de datos relacional la información se guarda en **tablas**, y las t
 
 Gracias a las claves foráneas, el nombre de un grupo se guarda **una sola vez** y los alumnos solo guardan su número. Si el grupo cambia de nombre, se cambia en un único sitio.
 
+!!! note "No es la única forma de guardar datos"
+    Existen también las bases de datos **no relacionales** (**NoSQL**), que no usan tablas unidas por claves sino **documentos, pares clave-valor, columnas o grafos**. Son una buena elección para otros problemas (datos que cambian de forma, enormes cantidades de usuarios, redes de relaciones), pero para datos con muchas reglas y relaciones, como los de un instituto, la relacional sigue siendo lo habitual. Verás las diferencias con ejemplos en la [unidad 7](../u07/index.md).
+
 ## SQL: un lenguaje declarativo
 
 **SQL** (*Structured Query Language*) no se escribe como un programa paso a paso. Es **declarativo**: describes **qué datos quieres** y el gestor decide **cómo** obtenerlos (ver la diferencia con el enfoque imperativo en la [web de Android](https://apuntes-dam.github.io/android-apuntes/u01/interfaces/)).

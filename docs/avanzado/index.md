@@ -1,6 +1,6 @@
 # Avanzado
 
-Material para ir más allá de las seis unidades. Cada unidad tiene su teoría, con ejemplos **ejecutados de verdad** sobre SQLite, y sus ejercicios con solución modelo bloqueada, igual que el resto de la web.
+Material para ir más allá de las unidades 1 a 6. Cada unidad tiene su teoría, con ejemplos **ejecutados de verdad** sobre SQLite, y sus ejercicios con solución modelo bloqueada, igual que el resto de la web.
 
 !!! info "Es un modo aparte"
     Esta sección solo aparece en el menú cuando activas el interruptor **Avanzado** de la cabecera. Así, quien está empezando no ve nada que no necesite todavía. Tu elección se guarda en el navegador.
@@ -14,4 +14,4 @@ Material para ir más allá de las seis unidades. Cada unidad tiene su teoría, 
 | [A5 · SQL moderno](a5/index.md) | `UPSERT`, `RETURNING`, `INSERT ... SELECT`, JSON dentro de una columna y columnas generadas |
 
 !!! note "Antes de empezar"
-    Da por sabidas las seis unidades de la web, sobre todo la [U6 · SQL avanzado](../u06/index.md).
+    Da por sabidas las unidades 1 a 6 de la web, sobre todo la [U6 · SQL avanzado](../u06/index.md).

@@ -1,5 +1,13 @@
 # U5 · Agrupar y subconsultas
 
+<div class="narrador" data-slug="u05-index" data-voces="mujer:Mujer,hombre:Hombre,hombre2:Hombre 2" data-titulo="Resumen de la unidad 5"></div>
+
+??? note "Leer el resumen"
+    Aquí aprendes a resumir.
+    Con las funciones de agregado cuentas filas, calculas medias y sumas, y sacas el máximo y el mínimo. Con GROUP BY lo haces por grupos, y con HAVING filtras esos grupos.
+    Y con las subconsultas, una consulta dentro de otra, resuelves preguntas en dos pasos.
+
+
 Hasta ahora cada fila del resultado era una fila de una tabla. Ahora aprenderás a **resumir**: contar alumnos, calcular medias, sacar la nota más alta, y hacerlo **por grupos** (la media de cada asignatura, los alumnos de cada ciudad). Y a usar una **consulta dentro de otra** (subconsulta) para resolver preguntas en dos pasos.
 
 ## Teoría

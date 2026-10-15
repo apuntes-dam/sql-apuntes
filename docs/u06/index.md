@@ -1,5 +1,13 @@
 # U6 · SQL avanzado
 
+<div class="narrador" data-slug="u06-index" data-voces="mujer:Mujer,hombre:Hombre,hombre2:Hombre 2" data-titulo="Resumen de la unidad 6"></div>
+
+??? note "Leer el resumen"
+    Esta unidad reúne las herramientas de las aplicaciones reales.
+    CASE, para decidir, y cómo tratar los valores nulos. Las vistas, para guardar consultas con nombre. Los índices, para que las consultas vayan más rápido. Las transacciones, para que un conjunto de cambios se haga entero o no se haga.
+    WITH y las funciones de ventana, para escribir consultas por pasos. Y los triggers, que reaccionan solos a los cambios.
+
+
 Con lo anterior ya puedes consultar y modificar casi cualquier base de datos. Esta unidad añade las herramientas que se usan en aplicaciones reales: **decidir con `CASE`**, guardar consultas como **vistas**, acelerarlas con **índices**, proteger los cambios con **transacciones**, escribir consultas por pasos con **`WITH`** y **funciones de ventana**, y reaccionar a los cambios con **triggers**.
 
 ## Teoría

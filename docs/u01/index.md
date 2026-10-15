@@ -1,5 +1,13 @@
 # U1 · Primeros pasos con SQL
 
+<div class="narrador" data-slug="u01-index" data-voces="mujer:Mujer,hombre:Hombre,hombre2:Hombre 2" data-titulo="Resumen de la unidad 1"></div>
+
+??? note "Leer el resumen"
+    SQL es el lenguaje para hablar con las bases de datos relacionales: guardar, consultar, modificar y borrar información.
+    Primero entiendes qué es una base de datos, y conoces la que se usa como ejemplo en toda la web.
+    Después escribes tus primeras consultas con SELECT, filtras filas con WHERE, y ordenas, limitas y aplicas funciones al resultado.
+
+
 **SQL** es el lenguaje con el que se habla con las bases de datos relacionales: sirve para **guardar, consultar, modificar y borrar** información. En esta unidad aprendes qué es una base de datos, conoces la base de datos de ejemplo que se usa en toda la web y escribes tus primeras consultas con `SELECT`.
 
 ## Teoría

@@ -1,5 +1,13 @@
 # U7 · Bases de datos no relacionales
 
+<div class="narrador" data-slug="u07-index" data-voces="mujer:Mujer,hombre:Hombre,hombre2:Hombre 2" data-titulo="Resumen de la unidad 7"></div>
+
+??? note "Leer el resumen"
+    Las bases de datos relacionales no son la única forma de guardar datos.
+    Las no relacionales, llamadas NoSQL, organizan la información como documentos, pares de clave y valor, columnas o grafos. Nacieron para problemas concretos: datos que cambian de forma, muchísimos usuarios a la vez, o relaciones muy complejas.
+    Aprenderás los cuatro tipos, y cómo elegir entre relacional y no relacional según el problema.
+
+
 Todo lo anterior trata de bases de datos **relacionales**: tablas, filas, claves foráneas y SQL. Pero no es la única forma de guardar datos. Las bases de datos **no relacionales** (a menudo llamadas **NoSQL**) organizan la información de otras maneras (documentos, pares clave-valor, columnas, grafos) y nacieron para problemas concretos: **datos que cambian de forma**, **muchísimos usuarios a la vez** o **relaciones muy complejas**. Esta unidad explica **en qué se diferencian** de las relacionales, **qué tipos hay** y **cuándo conviene cada una**.
 
 ## Teoría

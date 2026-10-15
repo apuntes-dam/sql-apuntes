@@ -26,8 +26,11 @@ theme:
     - content.code.copy
     - search.highlight
 extra_css:
+  - assets/narrador.css
   - assets/extra.css
-  - assets/lenguajes.css?v=a75313c9
+  - assets/lenguajes.css?v=499d1441
+extra_javascript:
+  - assets/narrador.js
 extra:
   social:
     - icon: fontawesome/brands/github

@@ -1,5 +1,12 @@
 # U4 · Consultas con varias tablas
 
+<div class="narrador" data-slug="u04-index" data-voces="mujer:Mujer,hombre:Hombre,hombre2:Hombre 2" data-titulo="Resumen de la unidad 4"></div>
+
+??? note "Leer el resumen"
+    En una base de datos bien diseñada, la información está repartida en varias tablas. Para ver un alumno junto al nombre de su grupo hay que unirlas, y eso es un JOIN, la herramienta más importante de SQL.
+    Verás el JOIN interno, el LEFT JOIN, que conserva las filas sin pareja, y cómo combinar los resultados de dos consultas con UNION, INTERSECT y EXCEPT.
+
+
 En una base de datos bien diseñada, la información está **repartida en varias tablas**. Para ver un alumno **junto al nombre de su grupo**, o una nota junto a la asignatura y el profesor, hay que **unir** tablas. Eso es un `JOIN`: la herramienta más importante de SQL. También verás cómo combinar los resultados de dos consultas con `UNION`, `INTERSECT` y `EXCEPT`.
 
 ## Teoría

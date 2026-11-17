@@ -28,7 +28,7 @@ theme:
 extra_css:
   - assets/narrador.css
   - assets/extra.css
-  - assets/lenguajes.css?v=fc8eccf9
+  - assets/lenguajes.css?v=a1917511
 extra_javascript:
   - assets/narrador.js
 extra:
